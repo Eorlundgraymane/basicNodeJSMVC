@@ -1,2 +1,2 @@
 # basicNodeJSMVC
-Basic Node JS BoilerPlate (Express EJS MVC + API
+Basic Node JS BoilerPlate (Express EJS MVC + API)
